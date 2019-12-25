@@ -1,0 +1,23 @@
+{
+  "name": "my-auth-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "serverless-create-global-dynamodb-table": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malli1246/my-auth-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malli1246/my-auth-service/issues"
+  },
+  "homepage": "https://github.com/malli1246/my-auth-service#readme"
+}
