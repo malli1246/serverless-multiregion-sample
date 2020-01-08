@@ -6,7 +6,9 @@
   "dependencies": {
     "serverless-create-global-dynamodb-table": "^2.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "serverless-create-dynamodb-global-tables-for-cf-stack": "^1.0.1"
+  },
   "scripts": {
     "test": "npm start"
   },
